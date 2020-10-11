@@ -1,5 +1,5 @@
 <?php
 
-include_once("CHARRA WEB.html") ;
+include_once("web ya charra.html") ;
 
 ?>
